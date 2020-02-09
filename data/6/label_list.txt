@@ -1,0 +1,3 @@
+0 door
+1 knob
+2 lock

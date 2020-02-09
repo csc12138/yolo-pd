@@ -1,0 +1,2 @@
+lslm/88.jpg			{"value":"knob","coordinate":[[410,354],[433,386]]}	{"value":"door","coordinate":[[135,243],[697,382]]}	
+lslm/9.jpg			{"value":"knob","coordinate":[[376,201],[411,233]]}	{"value":"door","coordinate":[[143,207],[595,399]]}

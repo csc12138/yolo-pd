@@ -1,0 +1,86 @@
+lslm/1.jpg			{"value":"door","coordinate":[[144,106],[743,426]]}	{"value":"knob","coordinate":[[440,297],[515,348]]}	
+lslm/10.jpg			{"value":"knob","coordinate":[[392,182],[437,238]]}	{"value":"door","coordinate":[[78,127],[636,247]]}	
+lslm/11.jpg			{"value":"knob","coordinate":[[100,428],[140,473]]}	{"value":"door","coordinate":[[21,144],[125,740]]}	
+lslm/12.jpg			{"value":"lock","coordinate":[[145,51],[176,101]]}	{"value":"lock","coordinate":[[161,359],[188,400]]}	{"value":"knob","coordinate":[[468,288],[500,327]]}	{"value":"door","coordinate":[[316,101],[511,493]]}	
+lslm/13.jpg			{"value":"knob","coordinate":[[397,287],[433,353]]}	{"value":"door","coordinate":[[391,61],[570,500]]}	
+lslm/14.jpg			{"value":"knob","coordinate":[[197,385],[228,458]]}	{"value":"door","coordinate":[[36,127],[226,680]]}	{"value":"lock","coordinate":[[3,111],[25,167]]}	{"value":"lock","coordinate":[[22,342],[45,399]]}	{"value":"lock","coordinate":[[42,549],[63,593]]}	
+lslm/15.jpg			{"value":"knob","coordinate":[[325,434],[360,473]]}	{"value":"door","coordinate":[[119,108],[350,729]]}	{"value":"lock","coordinate":[[87,82],[112,141]]}	{"value":"lock","coordinate":[[101,480],[119,543]]}	
+lslm/16.jpg			{"value":"knob","coordinate":[[380,310],[413,349]]}	{"value":"door","coordinate":[[371,99],[544,502]]}	
+lslm/17.jpg			{"value":"knob","coordinate":[[169,383],[252,467]]}	{"value":"lock","coordinate":[[330,350],[353,417]]}	{"value":"lock","coordinate":[[86,153],[141,234]]}	{"value":"door","coordinate":[[115,15],[347,722]]}	
+lslm/18.jpg			{"value":"knob","coordinate":[[459,88],[501,136]]}	{"value":"knob","coordinate":[[403,352],[431,370]]}	{"value":"lock","coordinate":[[510,336],[532,348]]}	{"value":"lock","coordinate":[[356,338],[377,350]]}	{"value":"door","coordinate":[[204,91],[660,243]]}	
+lslm/19.jpg			{"value":"knob","coordinate":[[219,471],[325,560]]}	{"value":"door","coordinate":[[1,1],[330,797]]}	
+lslm/2.jpg			{"value":"door","coordinate":[[211,358],[747,458]]}	{"value":"lock","coordinate":[[475,354],[513,366]]}	{"value":"lock","coordinate":[[493,398],[538,408]]}	{"value":"lock","coordinate":[[495,408],[541,419]]}	{"value":"lock","coordinate":[[204,451],[249,471]]}	{"value":"lock","coordinate":[[392,453],[437,474]]}	
+lslm/20.jpg			{"value":"knob","coordinate":[[427,326],[464,362]]}	{"value":"door","coordinate":[[194,197],[625,386]]}	
+lslm/21.jpg			{"value":"knob","coordinate":[[352,456],[393,503]]}	{"value":"door","coordinate":[[137,98],[378,800]]}	
+lslm/22.jpg			{"value":"knob","coordinate":[[188,440],[214,483]]}	{"value":"lock","coordinate":[[156,232],[176,271]]}	{"value":"lock","coordinate":[[155,363],[180,395]]}	{"value":"lock","coordinate":[[167,620],[186,654]]}	{"value":"door","coordinate":[[171,190],[230,668]]}	
+lslm/23.jpg			{"value":"knob","coordinate":[[433,294],[518,350]]}	{"value":"door","coordinate":[[124,97],[757,441]]}	
+lslm/24.jpg			{"value":"knob","coordinate":[[143,401],[189,452]]}	{"value":"lock","coordinate":[[100,112],[122,158]]}	{"value":"lock","coordinate":[[214,386],[232,436]]}	{"value":"lock","coordinate":[[103,284],[126,331]]}	{"value":"lock","coordinate":[[123,622],[136,659]]}	{"value":"door","coordinate":[[109,96],[237,656]]}	
+lslm/25.jpg			{"value":"knob","coordinate":[[419,252],[463,301]]}	{"value":"lock","coordinate":[[161,301],[199,316]]}	{"value":"lock","coordinate":[[313,302],[349,319]]}	{"value":"lock","coordinate":[[606,306],[638,322]]}	{"value":"door","coordinate":[[84,208],[704,314]]}	
+lslm/26.jpg			{"value":"knob","coordinate":[[362,276],[432,294]]}	{"value":"door","coordinate":[[88,287],[676,421]]}	{"value":"lock","coordinate":[[54,414],[106,433]]}	{"value":"lock","coordinate":[[287,403],[332,425]]}	{"value":"lock","coordinate":[[501,399],[547,416]]}	
+lslm/27.jpg			{"value":"lock","coordinate":[[482,264],[533,284]]}	{"value":"lock","coordinate":[[482,289],[536,309]]}	{"value":"lock","coordinate":[[493,409],[555,434]]}	{"value":"door","coordinate":[[106,120],[800,448]]}	
+lslm/28.jpg			{"value":"lock","coordinate":[[321,446],[345,494]]}	{"value":"lock","coordinate":[[345,445],[369,493]]}	{"value":"lock","coordinate":[[458,454],[486,506]]}	{"value":"door","coordinate":[[220,122],[491,697]]}	
+lslm/29.jpg			{"value":"lock","coordinate":[[313,305],[332,347]]}	{"value":"lock","coordinate":[[333,314],[351,349]]}	{"value":"lock","coordinate":[[414,315],[430,353]]}	{"value":"door","coordinate":[[224,61],[429,546]]}	
+lslm/3.jpg			{"value":"door","coordinate":[[86,1],[600,797]]}	{"value":"knob","coordinate":[[161,284],[408,497]]}	
+lslm/30.jpg			{"value":"knob","coordinate":[[433,205],[476,243]]}	{"value":"door","coordinate":[[177,138],[626,255]]}	
+lslm/31.jpg			{"value":"knob","coordinate":[[530,259],[581,339]]}	{"value":"door","coordinate":[[81,162],[790,353]]}	
+lslm/32.jpg			{"value":"door","coordinate":[[118,132],[702,382]]}	{"value":"lock","coordinate":[[388,234],[431,247]]}	{"value":"lock","coordinate":[[390,256],[430,271]]}	{"value":"lock","coordinate":[[383,123],[432,140]]}	
+lslm/33.jpg			{"value":"knob","coordinate":[[428,298],[470,338]]}	{"value":"door","coordinate":[[433,46],[564,497]]}	
+lslm/34.jpg			{"value":"knob","coordinate":[[433,298],[466,342]]}	{"value":"door","coordinate":[[435,57],[533,490]]}	
+lslm/35.jpg			{"value":"lock","coordinate":[[484,372],[519,387]]}	{"value":"lock","coordinate":[[502,297],[537,315]]}	{"value":"lock","coordinate":[[482,387],[515,406]]}	{"value":"door","coordinate":[[265,304],[695,491]]}	
+lslm/36.jpg			{"value":"lock","coordinate":[[230,386],[250,439]]}	{"value":"lock","coordinate":[[256,391],[268,436]]}	{"value":"lock","coordinate":[[347,387],[365,434]]}	{"value":"door","coordinate":[[142,135],[360,679]]}	
+lslm/37.jpg			{"value":"lock","coordinate":[[245,415],[260,456]]}	{"value":"lock","coordinate":[[263,416],[281,460]]}	{"value":"lock","coordinate":[[354,426],[376,469]]}	{"value":"door","coordinate":[[157,131],[372,658]]}	
+lslm/38.jpg			{"value":"knob","coordinate":[[51,370],[103,429]]}	{"value":"door","coordinate":[[36,123],[242,695]]}	
+lslm/39.jpg			{"value":"knob","coordinate":[[139,370],[187,412]]}	{"value":"door","coordinate":[[138,79],[433,709]]}	
+lslm/4.jpg			{"value":"door","coordinate":[[105,268],[789,360]]}	{"value":"lock","coordinate":[[468,265],[519,280]]}	{"value":"lock","coordinate":[[145,378],[197,408]]}	{"value":"lock","coordinate":[[353,377],[402,403]]}	{"value":"knob","coordinate":[[491,312],[552,354]]}	{"value":"lock","coordinate":[[766,373],[800,401]]}	
+lslm/40.jpg			{"value":"lock","coordinate":[[88,697],[128,800]]}	{"value":"lock","coordinate":[[259,620],[283,705]]}	{"value":"lock","coordinate":[[292,616],[319,691]]}	{"value":"door","coordinate":[[91,71],[508,796]]}	
+lslm/41.jpg			{"value":"knob","coordinate":[[211,412],[269,465]]}	{"value":"door","coordinate":[[208,96],[443,669]]}	
+lslm/42.jpg			{"value":"knob","coordinate":[[418,162],[457,209]]}	{"value":"door","coordinate":[[144,154],[666,400]]}	
+lslm/43.jpg			{"value":"lock","coordinate":[[395,291],[433,308]]}	{"value":"lock","coordinate":[[400,277],[437,289]]}	{"value":"door","coordinate":[[111,221],[613,385]]}	
+lslm/44.jpg			{"value":"knob","coordinate":[[225,425],[279,472]]}	{"value":"door","coordinate":[[225,109],[457,673]]}	
+lslm/45.jpg			{"value":"knob","coordinate":[[131,385],[180,434]]}	{"value":"door","coordinate":[[133,109],[426,726]]}	
+lslm/46.jpg			{"value":"knob","coordinate":[[485,228],[568,319]]}	{"value":"door","coordinate":[[2,220],[795,499]]}	
+lslm/47.jpg			{"value":"knob","coordinate":[[437,308],[478,348]]}	{"value":"door","coordinate":[[263,69],[480,536]]}	
+lslm/48.jpg			{"value":"knob","coordinate":[[191,508],[220,564]]}	{"value":"door","coordinate":[[202,127],[453,791]]}	
+lslm/49.jpg			{"value":"lock","coordinate":[[344,294],[360,331]]}	{"value":"lock","coordinate":[[361,297],[378,333]]}	{"value":"lock","coordinate":[[442,298],[456,338]]}	{"value":"door","coordinate":[[256,46],[454,514]]}	
+lslm/5.jpg			{"value":"knob","coordinate":[[379,304],[437,326]]}	{"value":"lock","coordinate":[[156,455],[198,475]]}	{"value":"lock","coordinate":[[326,451],[366,473]]}	{"value":"lock","coordinate":[[480,449],[519,472]]}	{"value":"lock","coordinate":[[626,449],[659,471]]}	{"value":"door","coordinate":[[159,306],[613,457]]}	
+lslm/50.jpg			{"value":"knob","coordinate":[[213,395],[249,475]]}	{"value":"door","coordinate":[[61,146],[243,706]]}	{"value":"lock","coordinate":[[50,130],[71,185]]}	{"value":"lock","coordinate":[[61,350],[84,393]]}	{"value":"lock","coordinate":[[64,546],[89,588]]}	
+lslm/51.jpg			{"value":"lock","coordinate":[[273,498],[294,563]]}	{"value":"lock","coordinate":[[444,361],[474,419]]}	{"value":"lock","coordinate":[[443,113],[480,179]]}	{"value":"lock","coordinate":[[430,522],[443,587]]}	{"value":"knob","coordinate":[[357,523],[423,605]]}	{"value":"door","coordinate":[[262,52],[450,795]]}	
+lslm/52.jpg			{"value":"knob","coordinate":[[539,378],[582,403]]}	{"value":"lock","coordinate":[[207,157],[262,193]]}	{"value":"lock","coordinate":[[576,149],[635,185]]}	{"value":"door","coordinate":[[197,178],[800,398]]}	
+lslm/53.jpg			{"value":"knob","coordinate":[[271,400],[316,495]]}	{"value":"door","coordinate":[[269,93],[451,684]]}	
+lslm/54.jpg			{"value":"knob","coordinate":[[268,397],[319,485]]}	{"value":"door","coordinate":[[265,83],[469,695]]}	
+lslm/55.jpg			{"value":"knob","coordinate":[[375,299],[437,328]]}	{"value":"lock","coordinate":[[157,455],[199,472]]}	{"value":"lock","coordinate":[[324,454],[363,470]]}	{"value":"lock","coordinate":[[482,450],[517,473]]}	{"value":"lock","coordinate":[[623,449],[659,470]]}	{"value":"door","coordinate":[[152,309],[633,458]]}	
+lslm/56.jpg			{"value":"knob","coordinate":[[421,141],[460,190]]}	{"value":"door","coordinate":[[121,140],[704,405]]}	
+lslm/57.jpg			{"value":"knob","coordinate":[[416,456],[468,523]]}	{"value":"door","coordinate":[[304,128],[487,716]]}	{"value":"door","coordinate":[[65,191],[154,543]]}	
+lslm/58.jpg			{"value":"knob","coordinate":[[449,222],[483,265]]}	{"value":"door","coordinate":[[178,213],[689,438]]}	
+lslm/59.jpg			{"value":"knob","coordinate":[[638,91],[719,189]]}	{"value":"door","coordinate":[[57,81],[797,549]]}	
+lslm/6.jpg			{"value":"knob","coordinate":[[418,254],[471,302]]}	{"value":"door","coordinate":[[96,202],[695,308]]}	{"value":"lock","coordinate":[[162,301],[198,314]]}	{"value":"lock","coordinate":[[313,301],[349,315]]}	{"value":"lock","coordinate":[[607,307],[642,318]]}	
+lslm/60.jpg			{"value":"knob","coordinate":[[413,515],[432,533]]}	
+lslm/61.jpg			{"value":"knob","coordinate":[[185,399],[234,439]]}	{"value":"door","coordinate":[[170,65],[420,695]]}	
+lslm/62.jpg			{"value":"door","coordinate":[[247,126],[381,640]]}	{"value":"knob","coordinate":[[257,412],[297,482]]}	
+lslm/63.jpg			{"value":"knob","coordinate":[[364,275],[433,299]]}	{"value":"lock","coordinate":[[58,411],[107,434]]}	{"value":"lock","coordinate":[[288,404],[336,423]]}	{"value":"lock","coordinate":[[502,398],[547,417]]}	{"value":"lock","coordinate":[[701,394],[747,409]]}	{"value":"door","coordinate":[[79,286],[694,405]]}	
+lslm/64.jpg			{"value":"knob","coordinate":[[137,373],[197,425]]}	{"value":"door","coordinate":[[124,101],[329,713]]}	
+lslm/65.jpg			{"value":"knob","coordinate":[[349,305],[383,336]]}	{"value":"door","coordinate":[[347,74],[551,538]]}	
+lslm/66.jpg			{"value":"knob","coordinate":[[431,347],[463,386]]}	{"value":"door","coordinate":[[153,148],[681,383]]}	
+lslm/67.jpg			{"value":"knob","coordinate":[[418,291],[442,322]]}	{"value":"door","coordinate":[[411,134],[578,464]]}	
+lslm/68.jpg			{"value":"door","coordinate":[[165,166],[407,800]]}	
+lslm/69.jpg			{"value":"lock","coordinate":[[469,187],[514,198]]}	{"value":"lock","coordinate":[[487,241],[540,259]]}	{"value":"lock","coordinate":[[496,261],[547,275]]}	{"value":"lock","coordinate":[[151,354],[207,385]]}	{"value":"lock","coordinate":[[375,345],[433,372]]}	{"value":"door","coordinate":[[145,194],[793,340]]}	
+lslm/7.jpg			{"value":"lock","coordinate":[[384,120],[433,139]]}	{"value":"lock","coordinate":[[386,227],[433,247]]}	{"value":"lock","coordinate":[[390,256],[435,273]]}	{"value":"door","coordinate":[[107,113],[706,380]]}	
+lslm/70.jpg			{"value":"knob","coordinate":[[503,174],[543,229]]}	{"value":"door","coordinate":[[164,120],[773,245]]}	
+lslm/71.jpg			{"value":"lock","coordinate":[[213,437],[231,488]]}	{"value":"lock","coordinate":[[240,438],[257,490]]}	{"value":"lock","coordinate":[[83,449],[108,503]]}	{"value":"door","coordinate":[[87,72],[377,736]]}	
+lslm/72.jpg			{"value":"knob","coordinate":[[128,440],[193,497]]}	{"value":"door","coordinate":[[125,27],[411,735]]}	
+lslm/73.jpg			{"value":"knob","coordinate":[[157,409],[199,458]]}	{"value":"door","coordinate":[[154,95],[436,688]]}	
+lslm/74.jpg			{"value":"knob","coordinate":[[203,451],[246,502]]}	{"value":"door","coordinate":[[203,134],[478,706]]}	
+lslm/75.jpg			{"value":"knob","coordinate":[[407,333],[445,384]]}	{"value":"door","coordinate":[[83,172],[709,388]]}	
+lslm/76.jpg			{"value":"knob","coordinate":[[413,194],[482,225]]}	{"value":"door","coordinate":[[154,190],[662,222]]}	{"value":"knob","coordinate":[[369,291],[410,315]]}	
+lslm/77.jpg			{"value":"knob","coordinate":[[100,409],[157,463]]}	{"value":"door","coordinate":[[88,22],[389,683]]}	
+lslm/78.jpg			{"value":"lock","coordinate":[[497,296],[537,314]]}	{"value":"lock","coordinate":[[483,372],[518,386]]}	{"value":"lock","coordinate":[[480,387],[514,406]]}	{"value":"door","coordinate":[[265,307],[695,493]]}	
+lslm/79.jpg			{"value":"knob","coordinate":[[170,280],[417,516]]}	{"value":"door","coordinate":[[108,9],[597,800]]}	
+lslm/8.jpg			{"value":"knob","coordinate":[[435,195],[468,233]]}	{"value":"door","coordinate":[[185,196],[680,422]]}	
+lslm/80.jpg			{"value":"knob","coordinate":[[408,229],[469,255]]}	{"value":"door","coordinate":[[221,181],[610,261]]}	
+lslm/81.jpg			{"value":"door","coordinate":[[134,182],[641,266]]}	{"value":"knob","coordinate":[[395,191],[476,220]]}	
+lslm/82.jpg			{"value":"door","coordinate":[[154,222],[668,309]]}	{"value":"knob","coordinate":[[406,273],[483,306]]}	
+lslm/83.jpg			{"value":"door","coordinate":[[71,303],[736,468]]}	{"value":"knob","coordinate":[[416,435],[449,475]]}	
+lslm/84.jpg			{"value":"lock","coordinate":[[423,315],[459,332]]}	{"value":"lock","coordinate":[[422,335],[460,349]]}	{"value":"lock","coordinate":[[428,420],[467,438]]}	{"value":"door","coordinate":[[177,236],[665,442]]}	
+lslm/85.jpg			{"value":"knob","coordinate":[[480,315],[575,365]]}	{"value":"door","coordinate":[[151,92],[783,306]]}	
+lslm/86.jpg			{"value":"lock","coordinate":[[393,196],[442,215]]}	{"value":"lock","coordinate":[[40,88],[99,121]]}	{"value":"lock","coordinate":[[275,106],[330,134]]}	{"value":"lock","coordinate":[[703,129],[744,153]]}	{"value":"lock","coordinate":[[411,280],[466,297]]}	{"value":"door","coordinate":[[10,111],[714,309]]}	
+lslm/87.jpg			{"value":"knob","coordinate":[[426,358],[452,393]]}	{"value":"door","coordinate":[[133,244],[719,383]]}
